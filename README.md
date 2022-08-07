@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blaine-t
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Node.js + Express.js + PostgreSQL + Prisma
 - 📫 How to reach me: blaine@bathost.net
 
 <!---
