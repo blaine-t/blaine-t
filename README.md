@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blaine-t
+- 👋 Hi, I’m [@blaine-t](https://github.com/blaine-t)
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Node.js + Express.js + PostgreSQL + Prisma
+- 🌱 I’m currently learning Node.js, Express.js, Passport.js, PostgreSQL, and Prisma
 - 📫 How to reach me: blaine@bathost.net
 
 <!---
