@@ -25,7 +25,7 @@
 
 - 🔑 GPG key: [`EFED2C43CB07610F`](https://github.com/blaine-t.gpg)
 
-<p align="right" width="50%">Stats slightly inaccurate due to organizations seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
+<p align="right" width="50%">Stats slightly inaccurate due to <a href="https://github.com/orgs/Unofficial-LSW-Programming-Club/repositories">organizations</a> seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
 
 <!---
 blaine-t/blaine-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
