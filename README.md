@@ -10,9 +10,9 @@
 
 **Blaine Traudt**
 
-- High school senior at Lincoln Southwest
+- Incoming freshman to the Raikes school at UNL
 - Co-founded the LSW Programming club
-- ✉️ [Blaine@bathost.net](mailto:Blaine@bathost.net)
+- ✉️ [blaine-t@bathost.net](mailto:blaine-t@bathost.net)
 - 🌐 https://bathost.net (WIP)
 
 - ⚒️ [<img src="img/typeScript.svg" width="16" height="16">TypeScript](https://github.com/Unofficial-LSW-Programming-Club/studors) / [<img src="img/java.png" width="16" height="16">Java](https://github.com/blaine-t/sgJava) / [<img src="img/python.png" width="16" height="16">Python](https://github.com/LSW-Programming-Club/piMI)
@@ -21,7 +21,7 @@
 
 - 👨 Pronouns: He/Him
 
-- 🔑 GPG key: [`EFED2C43CB07610F`](https://github.com/blaine-t.gpg)
+- 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
 
 <br />
 <br />
