@@ -1,9 +1,5 @@
 # Hello World! <img width="32" src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif">
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=blaine-t&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=blaine-t&show_icons=true">](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaine-t&theme=dark&layout=compact">](https://github.com/blaine-t/github-readme-stats#gh-dark-mode-only)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaine-t&layout=compact">](https://github.com/blaine-t/github-readme-stats#gh-light-mode-only)
@@ -23,11 +19,7 @@
 
 - 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
 
-<br />
-<br />
-<br />
-
-<p align="right" width="50%">Stats slightly inaccurate due to <a href="https://github.com/orgs/Unofficial-LSW-Programming-Club/repositories">organizations</a> seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
+<p align="right" width="50%">Stats inaccurate due to <a href="https://github.com/orgs/Unofficial-LSW-Programming-Club/repositories">organizations</a> seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
 
 <!---
 blaine-t/blaine-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
