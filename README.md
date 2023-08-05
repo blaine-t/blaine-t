@@ -9,7 +9,7 @@
 - Incoming freshman to the Raikes school at UNL
 - Co-founded the LSW Programming club
 - ✉️ [blaine-t@bathost.net](mailto:blaine-t@bathost.net)
-- 🌐 https://bathost.net (WIP)
+- 🌐 https://bathost.net (WIP) [Studors Demo Currently]
 
 - ⚒️ [<img src="img/typeScript.svg" width="16" height="16">TypeScript](https://github.com/Unofficial-LSW-Programming-Club/studors) / [<img src="img/java.png" width="16" height="16">Java](https://github.com/blaine-t/sgJava) / [<img src="img/python.png" width="16" height="16">Python](https://github.com/LSW-Programming-Club/piMI)
 
@@ -19,7 +19,7 @@
 
 - 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
 
-<p align="right" width="50%">Stats inaccurate due to <a href="https://github.com/orgs/Unofficial-LSW-Programming-Club/repositories">organizations</a> seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
+<p align="right" width="50%">Stats slightly inaccurate due to <a href="https://github.com/orgs/Unofficial-LSW-Programming-Club/repositories">organizations</a> seen <a href="https://github.com/anuraghazra/github-readme-stats/issues/1">here</a></p>
 
 <!---
 blaine-t/blaine-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
