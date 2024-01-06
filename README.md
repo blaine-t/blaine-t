@@ -8,8 +8,8 @@
 
 - Freshman in the Raikes school at UNL
 - Co-founded the LSW Programming club
-- ✉️ [blaine-t@bathost.net](mailto:blaine-t@bathost.net)
-- 🌐 https://bathost.net (WIP) [[Studors](https://github.com/Unofficial-LSW-Programming-Club/studors) Demo Currently]
+- ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
+- 🌐 https://traudt.dev (WIP) [[Studors](https://github.com/Unofficial-LSW-Programming-Club/studors) Demo Currently]
 
 - ⚒️ [<img src="img/typeScript.svg" width="16" height="16">TypeScript](https://github.com/Unofficial-LSW-Programming-Club/studors) / [<img src="img/java.png" width="16" height="16">Java](https://github.com/blaine-t/sgJava) / [<img src="img/python.png" width="16" height="16">Python](https://github.com/LSW-Programming-Club/piMI)
 
