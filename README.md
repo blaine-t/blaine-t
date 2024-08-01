@@ -6,7 +6,7 @@
 
 **Blaine Traudt**
 
-- Freshman in the Raikes school at UNL
+- Sophomore in the Raikes school at UNL
 - Co-founded the LSW Programming club
 - ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
 - 🌐 https://traudt.dev (WIP)
