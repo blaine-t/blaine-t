@@ -9,7 +9,7 @@
 - Sophomore in the Raikes school at UNL
 - Co-founded the LSW Programming club
 - ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
-- 🌐 https://traudt.dev (WIP)
+- 🌐 https://traudt.dev
 
 - ⚒️ [<img src="img/typeScript.svg" width="16" height="16">TypeScript](https://github.com/Unofficial-LSW-Programming-Club/studors) / [<img src="img/java.png" width="16" height="16">Java](https://github.com/blaine-t/sgJava) / [<img src="img/python.png" width="16" height="16">Python](https://github.com/blaine-t/fwd_outlook_graph) / [<img src="img/rust.png" width="16" height="16">Rust](https://github.com/BALD-rs/lucky-liars)
 
