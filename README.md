@@ -6,8 +6,7 @@
 
 **Blaine Traudt**
 
-- Sophomore in the Raikes school at UNL
-- Co-founded the LSW Programming club
+- Junior in the Raikes school at UNL
 - ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
 - 🌐 https://traudt.dev
 
@@ -18,6 +17,8 @@
 - 👨 Pronouns: He/Him
 
 - 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
+
+- Work Accounts: [Speedway Motors](https://github.com/blaine-traudt-speedway) / [Hudl](https://github.com/blaine-traudt-hudl)
 
 <!---
 blaine-t/blaine-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
