@@ -18,7 +18,7 @@
 
 - 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
 
-- Work Accounts: [Speedway Motors](https://github.com/blaine-traudt-speedway) / [Hudl](https://github.com/blaine-traudt-hudl)
+- Work Accounts: [<img src="img/speedwayMotors.png" width="16" height="16">Speedway Motors](https://github.com/blaine-traudt-speedway) / [<img src="img/hudl.png" width="16" height="16">Hudl](https://github.com/blaine-traudt-hudl)
 
 <!---
 blaine-t/blaine-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
