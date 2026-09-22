@@ -10,7 +10,7 @@
 - ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
 - 🌐 https://traudt.dev
 
-- ⚒️ [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Unofficial-LSW-Programming-Club/studors) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/blaine-t/sgJava) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/blaine-t/fwd_outlook_graph) [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://github.com/BALD-rs/lucky-liars)
+- ⚒️ [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/blaine-t/studors) [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/blaine-t/sgJava) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/blaine-t/fwd_outlook_graph) [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://github.com/BALD-rs/lucky-liars)
 
 - ✏️ [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/Arch_Linux) [![Sway](https://img.shields.io/badge/Sway-afa137?logo=sway&logoColor=white)](https://swaywm.org/) [![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
 
