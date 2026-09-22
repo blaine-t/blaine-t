@@ -6,7 +6,7 @@
 
 **Blaine Traudt**
 
-- Junior in the Raikes school at UNL
+- Senior in the Raikes school at UNL
 - ✉️ [blaine@traudt.dev](mailto:blaine@traudt.dev)
 - 🌐 https://traudt.dev
 
