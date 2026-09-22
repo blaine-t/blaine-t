@@ -14,8 +14,6 @@
 
 - ✏️ [<img src="img/arch.png" width="16" height="16">Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [<img src="img/sway.svg" width="16" height="16">Sway](https://swaywm.org/) / [<img src="img/code.png" width="16" height="16">VS Code](https://code.visualstudio.com/docs)
 
-- 👨 Pronouns: He/Him
-
 - 🔑 GPG key: [`8D281DF6BDB25B4A`](https://github.com/blaine-t.gpg)
 
 - 💼 Work Accounts: [<img src="img/speedwayMotors.png" width="16" height="16">Speedway Motors](https://github.com/blaine-traudt-speedway) / [<img src="img/hudl.png" width="16" height="16">Hudl](https://github.com/blaine-traudt-hudl)
